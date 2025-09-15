@@ -1,0 +1,8 @@
+00 | 2025-09-15 11:00:00
+01 | ERROR | RedisCacheError | OutOfMemory | Node=redis-node-1
+01 | WARN  | ServerResponseTime | 350ms
+01 | INFO  | ExecutionTime | 420ms
+01 | METRIC | RedisCacheUsedMemory | 1024MB
+01 | METRIC | RedisCacheServerLoad | 85%
+01 | METRIC | RedisCacheOpsPerSec | 1200
+99 | 6
